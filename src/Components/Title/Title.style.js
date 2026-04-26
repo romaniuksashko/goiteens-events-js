@@ -8,4 +8,5 @@ export const Caption = styled.h2`
   color: #516272;
   font-weight: 700;
   margin-bottom: 50px;
+  text-align: center;
 `;
